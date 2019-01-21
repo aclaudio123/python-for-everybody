@@ -11,7 +11,7 @@
 # maximum loop to find the most prolific committer.
 #
 # Concepts: dictionary, for loop, file processing
-# commit msg: Searching top email sender in mbox.txt
+
 
 fname = input("Enter file name: ")
 try:
