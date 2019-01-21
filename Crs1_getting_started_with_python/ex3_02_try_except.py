@@ -2,8 +2,6 @@
 # Title:   Using try/except
 # Author: Claudio Asangong
 #
-#
-#
 # 3.2: Rewrite your pay program (exercise 3.1) using try and except so that the
 # program handles non-numeric input gracefully by printing a message and
 # exiting the program.
