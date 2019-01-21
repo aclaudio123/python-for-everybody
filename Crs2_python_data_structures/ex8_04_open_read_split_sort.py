@@ -11,7 +11,6 @@
 # You can download the sample data at http://www.py4e.com/code3/romeo.txt
 #
 # Concepts: file processing, opening, reading, spliting, sorting
-# commit msg: File processing, open, read, and split
 
 fname = input('Enter file name: ')
 try:
