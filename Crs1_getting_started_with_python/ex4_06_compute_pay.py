@@ -2,7 +2,6 @@
 # Title:   Compute pay
 # Author: Claudio Asangong
 #
-#
 # 4.6 Write a program to prompt the user for hours and rate per hour using
 # input to compute gross pay. Pay should be the normal rate for hours up to
 # 40 and time-and-a-half for the hourly rate for all hours worked above 40
