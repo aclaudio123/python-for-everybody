@@ -2,7 +2,6 @@
 # Title:   Matching and extracting values from a File
 # Author: Claudio Asangong
 #
-#
 # 7.2 Write a program that prompts for a file name, then opens that file and
 # reads through the file, looking for lines of the form:
 # X-DSPAM-Confidence:    0.8475
@@ -13,7 +12,6 @@
 # when you are testing below enter mbox-short.txt as the file name.
 #
 # Concepts: file processing
-# commit msg: Matching and extracting values from a File
 
 fname = input("Enter file name: ")
 # File error checking
