@@ -6,7 +6,7 @@
 # the number at the end of the line below. Convert the extracted value to a
 # floating point number and print it out.
 #
-# Concepts: string method find(), string slicing
+# Concepts: string find(), string slicing
 
 text = "X-DSPAM-Confidence:    0.8475"
 # find() finds the index of the substring passed
