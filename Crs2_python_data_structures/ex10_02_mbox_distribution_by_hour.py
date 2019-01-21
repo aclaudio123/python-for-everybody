@@ -11,7 +11,6 @@
 # sorted by hour.
 #
 # Concepts: for loop, dictionary, file processing
-# commit msg: Added mbox distribution by hour of day
 
 fhandler = open('mbox-short.txt')
 counts = dict()
