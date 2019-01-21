@@ -9,7 +9,6 @@
 # You can download the sample data at http://www.py4e.com/code3/words.txt
 #
 # Concepts: file processing
-# commit msg: Simple file processing to uppercase
 
 fname = input('Enter name of File: ')
 fhandler = open(fname)
