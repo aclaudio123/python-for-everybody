@@ -7,7 +7,7 @@
 # program (the pay should be 96.25). Do not worry about error checking or bad
 # user data.
 #
-# Concepts: input, variables, print statement
+# Concepts: input, variables, print
 
 hours = input("Enter Hours: ")
 rate = input("Enter Rate: ")
