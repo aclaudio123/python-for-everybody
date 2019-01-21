@@ -12,7 +12,6 @@
 # You can download the sample data at http://www.py4e.com/code3/mbox-short.txt
 #
 # Concepts: file processing, string parsing, error handling
-# commit msg: Finding and counting substrings in files
 
 fname = input("Enter file name: ")
 try:
