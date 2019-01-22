@@ -11,6 +11,7 @@
 # The data file used for this application is http://www.py4e.com/code3/mbox.txt
 #
 # Concepts: SQL, SQLite
+# commit msg: counting emails in a Database
 
 import sqlite3
 import ssl
