@@ -14,8 +14,7 @@
 # Actual data: http://py4e-data.dr-chuck.net/comments_174562.xml
 #              (Sum ends with 19)
 #
-# Concepts: XML, urllib
-# commit msg: Extracting data from XML
+# Concepts: XML, urllib, ElementTree API
 
 import urllib.request
 import xml.etree.ElementTree as ET
