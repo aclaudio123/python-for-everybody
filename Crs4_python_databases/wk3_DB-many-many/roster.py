@@ -9,7 +9,6 @@
 # the tables from the data file.
 #
 # Concepts: SQL, JSON API, sqlite
-# commit msg: CRUD SQLite with JSON data
 
 import json
 import sqlite3
