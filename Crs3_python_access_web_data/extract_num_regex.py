@@ -11,7 +11,7 @@
 # Actual data: http://py4e-data.dr-chuck.net/regex_sum_174558.txt
 #              (There are 80 values and the sum ends with 294)
 #
-# Concepts: regular expression
+# Concepts: regex, error handling, string manipulation 
 
 import re
 
