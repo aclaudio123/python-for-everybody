@@ -10,7 +10,6 @@
 #              (Sum ends with 2)
 #
 # Concepts: Web Scraping with BeautifulSoup
-# commit msg: Scraping HTML with BeautifulSoup
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
