@@ -15,7 +15,6 @@
 #              (Sum ends with 40)
 #
 # Concepts: JSON, urllib
-# commit msg: Extracting data using JSON API
 
 import urllib.request
 import json
