@@ -11,7 +11,6 @@
 # The data file used for this application is http://www.py4e.com/code3/mbox.txt
 #
 # Concepts: SQL, SQLite
-# commit msg: counting emails in a Database
 
 import sqlite3
 import ssl
@@ -40,6 +39,7 @@ for line in fhandler:
     email = line.split()[1]
     org = email.split('@')[1]
     # use ? as placeholder value to prevent SQL injection
+    # values should be given as tuple (value1,) if one value
     cur.execute('SELECT count FROM Counts WHERE org = ? ', (org,))
     row = cur.fetchone()
     if row is None:
