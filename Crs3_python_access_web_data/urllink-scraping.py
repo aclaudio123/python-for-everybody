@@ -20,7 +20,7 @@
 # is: T
 #
 # Concepts: Web Scraping with BeautifulSoup, html
-# commit msg: Scraping HTML with BeautifulSoup
+# commit msg: 
 
 import urllib.request
 from bs4 import BeautifulSoup
@@ -35,6 +35,7 @@ url = 'http://py4e-data.dr-chuck.net/known_by_Orin.html'
 
 count = input('Enter count: ')
 pos = input('Enter position: ')
+
 for i in range(int(count)+1):
     html = urllib.request.urlopen(url, context=ctx).read()
     print('Retrieving: ', url)
