@@ -19,7 +19,6 @@
 # urllib.urlencode() fuction.
 #
 # Concepts: geocoding, JSON, urllib
-# commit msg: geolocation place_id finder
 
 import urllib.request
 import urllib.parse
